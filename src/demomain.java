@@ -3,5 +3,6 @@ public class demomain {
         System.out.println("first commit");
         System.out.println("second commit");
         System.out.println("Finally i could commit my code");
+        System.out.println("pull from master branch");
     }
 }
